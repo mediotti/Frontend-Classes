@@ -1,0 +1,1 @@
+display flex é responsável por separar os elementos na horizontal
